@@ -30,7 +30,7 @@ const habilidades = [
     icono: <BarChart className="w-7 h-7 text-purple-600" />,
     descripcion: [
       "Dashboards con Power BI.",
-      "KPIs y medidas con DAX básico.",
+      "KPIs y medidas con DAX.",
       "Integración de datos desde Python.",
     ],
   },
