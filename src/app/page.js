@@ -45,19 +45,18 @@ export default function HomePage() {
         </ul>
       </nav>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 p-4 md:p-6">
-  {/* Sidebar */}
-  <aside className="flex flex-col gap-4 col-span-1">
-    <Foto />
-    <Contacto />
-  </aside>
+      <div className="container mx-auto max-w-7xl bg-slate-50 mt-6 rounded border">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 p-4 md:p-6">
+          {/* Sidebar */}
+          <aside className="flex flex-col gap-4 col-span-1 bg-sky-900 pb-4">
+            <Foto />
+            <Contacto />
+          </aside>
 
-  {/* Contenido principal */}
-  <main className="md:col-span-2">
-    {activeSection.component}
-  </main>
-</div>
-
+          {/* Contenido principal */}
+          <main className="md:col-span-2">{activeSection.component}</main>
+        </div>
+      </div>
     </div>
   );
 }
