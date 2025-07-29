@@ -23,8 +23,6 @@ const AboutMe = () => {
         <strong>Tailwind CSS</strong>, <strong>JavaScript</strong> y <strong>React</strong>. Aunque 
         el desarrollo web no es mi campo principal, lo estoy incorporando de manera progresiva como 
         una competencia complementaria. 
-        Considero que tener fundamentos sólidos en desarrollo web me permitirá construir soluciones más integrales 
-        y comunicarme con mayor eficacia con equipos.
       </p>
 
       <p className="mt-4 text-sm leading-relaxed text-justify">

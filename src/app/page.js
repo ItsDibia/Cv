@@ -8,6 +8,7 @@ import Cursos from "@/components/Cursos";
 import Experiencia from "@/components/Experiencia";
 import HabilidadesCarousel from "@/components/Habilidades";
 import Foto from "@/components/Foto";
+import Proyectos from "@/components/Proyectos";
 
 export default function HomePage() {
   const secciones = [
@@ -16,6 +17,7 @@ export default function HomePage() {
     { name: "Educación", component: <Educacion /> },
     { name: "Habilidades", component: <HabilidadesCarousel /> },
     { name: "Cursos", component: <Cursos /> },
+    { name: "Proyectos", component: <Proyectos /> }
   ];
 
   const [activeSection, setActiveSection] = useState(secciones[0]);
