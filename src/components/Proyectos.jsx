@@ -4,7 +4,10 @@ export default function Proyectos() {
       "https://comercio-internacional-react-3wgp.vercel.app/",
       "/Proyectos/GuiaExportacion.png"
     ],
-    // Puedes agregar más proyectos si quieres
+    "Crime_and_safety": [
+      "https://crime-and-safety.vercel.app/",
+      "/Proyectos/CrimeAndSafety.png"
+    ]
   };
 
   return (
