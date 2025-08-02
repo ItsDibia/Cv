@@ -4,31 +4,30 @@ const AboutMe = () => {
       <h2 className="text-3xl font-bold mb-4 text-center">Sobre mí</h2>
 
       <p className="text-sm leading-relaxed text-justify">
-        Soy Diego Andrés Pérez Cermeño, profesional en Administración de Negocios Internacionales. 
-        A lo largo de los últimos años he complementado mi perfil con formación autodidacta en herramientas tecnológicas 
-        orientadas a la gestión administrativa y el análisis de datos, con el objetivo de aportar soluciones 
-        más eficientes en entornos profesionales.
+        Soy Diego Andrés Pérez Cermeño, profesional de 23 años en Administración de Negocios 
+        Internacionales con <strong>competencias autodidactas en análisis y procesamiento de datos</strong>. 
+        Mi pasión por resolver problemas comenzó con algo tan simple como querer organizar mejor mis 
+        finanzas personales, lo que me llevó a descubrir herramientas como Python y PowerBI.
       </p>
 
       <p className="mt-4 text-sm leading-relaxed text-justify">
-        Trabajo con <strong>Python</strong> y bibliotecas como <strong>pandas</strong>, <strong>numpy</strong>, 
-        <strong>matplotlib</strong> y <strong>seaborn</strong> para organizar, limpiar y analizar información. 
-        Complemento estos análisis con <strong>Power BI</strong> cuando es necesario presentar resultados de manera visual y comprensible. 
-        Aunque no desarrollo automatizaciones avanzadas, sí he creado scripts que agilizan tareas repetitivas, como 
-        la limpieza de datos o el procesamiento de archivos.
+        Mi trayectoria profesional se distingue por la capacidad de <strong>identificar ineficiencias 
+        en el manejo de información y desarrollar soluciones técnicas enfocadas en datos</strong>. 
+        He aprendido que cada proceso ineficiente representa una oportunidad de mejora.
       </p>
 
       <p className="mt-4 text-sm leading-relaxed text-justify">
-        Actualmente estoy desarrollando habilidades en <strong>HTML</strong>, <strong>CSS</strong>, 
-        <strong>Tailwind CSS</strong>, <strong>JavaScript</strong> y <strong>React</strong>. Aunque 
-        el desarrollo web no es mi campo principal, lo estoy incorporando de manera progresiva como 
-        una competencia complementaria. 
+        Mi especialidad técnica se centra en <strong>Python para análisis de datos</strong> (pandas, 
+        numpy, matplotlib, seaborn) y Power BI para visualización e insights. Como competencia 
+        complementaria, poseo conocimientos en desarrollo web (JavaScript/React/Next.js/FastAPI) 
+        que me permiten crear interfaces para presentar resultados de análisis de manera accesible.
       </p>
 
       <p className="mt-4 text-sm leading-relaxed text-justify">
-        Mi enfoque sigue siendo aplicar tecnología de forma práctica dentro del entorno administrativo. 
-        Estoy comprometido con seguir aprendiendo, integrarme en entornos colaborativos y utilizar herramientas 
-        digitales para generar impacto real en los procesos de gestión y análisis de información.
+        Mi experiencia trabajando de manera autónoma me ha enseñado la importancia de mantener el control 
+        sobre la lógica mientras aprovecho herramientas modernas para acelerar el desarrollo. 
+        Aunque no soy experto en todo, mi fortaleza radica en <strong>resolver problemas reales de 
+        información</strong> y crear soluciones que realmente funcionen en el día a día.
       </p>
     </section>
   );
