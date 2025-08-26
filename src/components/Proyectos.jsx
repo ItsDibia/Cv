@@ -11,7 +11,11 @@ export default function Proyectos() {
     "Crime & Safety": [
       "https://crime-and-safety.vercel.app/",
       "/Proyectos/CrimeAndSafety.png"
-    ]
+    ],
+    "Python - Analisis - lk": [
+      "https://www.linkedin.com/posts/diego-perez-61179129a_leveraging-python-and-power-bi-for-data-analysis-activity-7274338046223781889-d_PI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhf1y0BevQ44bYI3AsgNFNLuz0EhXvOCLM",
+      "/Proyectos/PythonAnalisislk.png"
+    ],
   };
 
   return (
